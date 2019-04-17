@@ -121,7 +121,7 @@ p {
 .block {
 	float: left;
 	width: 100%;
-	padding: 130px 0;
+	padding: 70px 0;
 	position: relative;
 	z-index: 99;
 }
@@ -153,7 +153,7 @@ main.lght:before {
 	padding: 0;
 }
 .block.less-padding {
-	padding: 80px 0;
+	padding: 80px 0 0;
 }
 .block.less-padding2 {
 	padding: 60px 0;
@@ -276,7 +276,7 @@ header {
 	float: left;
 	width: 100%;
 	position: absolute;
-	padding-top: 40px;
+	/*padding-top: 40px;*/
 	z-index: 99999;
 }
 .hd_bar {
@@ -630,7 +630,7 @@ header.full .logo {
 }
 .banner-section h2 {
 	position: absolute;
-	top: 50%;
+	top: 43%;
 	left: 37%;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-moz-transform: translateX(-50%) translateY(-50%);
@@ -647,7 +647,7 @@ header.full .logo {
 
 .banner-section h4 {
 	position: absolute;
-	top: 27%;
+	top: 21%;
 	left: 21%;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-moz-transform: translateX(-50%) translateY(-50%);
@@ -3139,7 +3139,7 @@ main.lght .ep-icon:after {
 .block3 {
 	float: left;
 	width: 100%;
-	padding: 140px 0;
+	/*padding: 140px 0;*/
 	position: relative;
 	z-index: 99;
 }
@@ -3161,7 +3161,7 @@ main.lght .ep-icon:after {
 	margin-bottom: 70px;
 }
 .our-info h2 {
-	font-size: 56px;
+	font-size: 38px;
 	font-weight: 600;
 	text-transform: capitalize;
 	margin-bottom: 35px;

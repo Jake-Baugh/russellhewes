@@ -408,7 +408,7 @@
 	.locations-list {margin-top: 40px;}
 	.gallery-tabs-head h4 {text-align: left;}
 	.gallery-tabs-head {padding: 0 15px;}
-	.block3 {padding: 70px 0;}
+	.block3 {padding: 0px;}
 	.customer-img {text-align: center;margin-top: 40px;}
 	.partners-section {padding: 60px 0;}
 	.customer-img img {width: 35%;float: none;}
@@ -585,6 +585,7 @@
 	.customer-say span {font-size: 12px;}
 	.partners-section {padding: 40px 0;}
 	.customer-img img {width: 80%;}
+	.our-info img { max-width: 60%; margin-bottom: 70px;}
 	.footer-links li {margin-bottom: 15px;}
 	.addrs-info li span {line-height: 24px;padding: 0 10px;}
 	.house-slider .slick-dots {bottom: 10px;}
