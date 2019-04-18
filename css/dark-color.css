@@ -7,7 +7,7 @@ a {
 	color: #999999;
 }
 .header-bar {
-	background-color: #021f36;
+	background-color: #231e20;
 }
 header.full.stick.sticky {
 	background-color: #021f36;
@@ -27,6 +27,9 @@ nav ul ul li {
 }
 .bg2 {
 	background-image: url(../images/resources/bg2.jpg);
+}
+.bg3 {
+	background-image: url(../images/resources/bg3.jpg);
 }
 .choosing-que h3:before {
 	background-color: #ffa800;
@@ -68,10 +71,10 @@ nav ul ul li {
 	color: #fff;
 }
 .review-comment p {
-	color: #fff;
+	color: #333;
 }
 .review-comment h4 {
-	color: #ffffff;
+	color: #777;
 }
 .responsive-mobile-menu ul li.menu-has-items > a:before {
 	color: #fff;
@@ -112,10 +115,10 @@ nav ul ul li {
 	color: #fff;
 }
 .ms-overlay:before {
-	background-image: url(../images/resources/masonary-bg.png);
+	background-image: url(../images/resources/masonary-bg2.png);
 }
 .hd_bar {
-	background-color: #021f36;
+	background-color: #231e20;
 }
 .kons-construct h4 {
 	color: #999999;
@@ -127,16 +130,16 @@ nav ul ul li {
 	border: 1px solid #425c70;
 }
 .kn-title h3 {
-	color: #ffffff;
+	color: #333;
 }
 .about-kons h4 {
-	color: #ffffff;
+	color: #333;
 }
 p {
-	color: #999999;
+	color: #777;
 }
 .our-projects-counter ul li h2 {
-	color: #ffffff;
+	color: #111;
 }
 .srvc-icon > h3 {
 	color: #ffffff;
@@ -145,13 +148,13 @@ p {
 	color: #fff000;
 }
 .service-details {
-	border: 1px solid #435361;
+	border: 1px solid #435361;background: #231e20;
 }
 .rating-star h2 {
-	color: #fff;
+	color: #333;
 }
 .trust-text h2 {
-	color: #ffffff;
+	color: #333;
 }
 .post-info li a,
 .post-info li span {
@@ -164,10 +167,10 @@ p {
 	border-top: 1px solid #425c70;
 	border-right: 1px solid #425c70;
 	border-bottom: 1px solid #425c70;
-	border-left: 5px solid #fff000;
+	border-left: 1px solid #425c70;
 }
 .footer-style2 {
-	background-color: #031f35;
+	background-color: #231e20;
 }
 .bottom-strip {
 	background-color: #032540;
@@ -179,13 +182,13 @@ p {
 	color: #fff;
 }
 .our-info h2 {
-	color: #ffffff;
+	color: #333;
 }
 .sm-title {
 	color: #fff;
 }
 .our-features {
-	background-color: #032540;
+	background-color: #231e20;
 }
 .feature-info h3 {
 	color: #fff;
@@ -252,7 +255,7 @@ p {
 	color: #fff;
 }
 .options ul li a {
-	color: #ffffff;
+	color: #777;
 }
 .load-more-items a {
 	color: #ffffff;

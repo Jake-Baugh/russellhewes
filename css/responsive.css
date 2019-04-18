@@ -51,7 +51,7 @@
 }
 
 @media (max-width: 1399px) {
-	.our-services.style2 {padding: 0 10px;}
+	.our-services.style2 {padding: 0 10px 20px;}
 	.post-details > h3 {font-size: 16px;line-height: 24px;}
 	.posts-sec.st3 .post-details h3 {height: 40px;}
 	.locations-list ul li {margin-bottom: 30px;}
