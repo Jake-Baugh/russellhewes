@@ -176,7 +176,7 @@ p {
 	background-color: #032540;
 }
 .copyright-text.white p {
-	color: #fff;
+	color: #fff;vertical-align: middle;display: inline-block;
 }
 .social-links ul li a {
 	color: #fff;
