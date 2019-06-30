@@ -353,7 +353,7 @@ div.pb {
 
 nav {
 	float: left;
-	width: 50%;
+	/* width: 50%; */
 }
 nav ul {
 	margin: 0;	
@@ -3113,7 +3113,7 @@ main.lght .ep-icon:after {
 	line-height: 50px;
 }
 .social-links ul {
-	margin: 0;
+	margin: 0;padding-inline-start: 0px;
 	display: inline-block;
   vertical-align: middle;
 }

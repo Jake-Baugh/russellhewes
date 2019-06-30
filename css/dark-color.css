@@ -86,7 +86,7 @@ nav ul ul li {
 	color: #999999;
 }
 .wrapper {
-	background-color: #03192b;
+	/* background-color: #03192b; */
 }
 .alert-danger {
 	background-color: #03192b;
@@ -148,7 +148,7 @@ p {
 	color: #fff000;
 }
 .service-details {
-	border: 1px solid #435361;background: #231e20;
+	/* border: 1px solid #435361; */background: #231e20;
 }
 .rating-star h2 {
 	color: #333;

@@ -69,7 +69,7 @@
 	.portfolio-item {padding: 45px 30px;}
 	.pager-details.full.pd-lft-200 {padding-left: 0;}
 	.construction-company p br {display: none;}
-	br {display: none;}
+	br {/* display: none; */}
 	.house-imgs-slides {padding-left: 70px;padding-right: 70px;} 
 	.listing-info > h3 {margin-bottom: 20px;font-size: 17px;}
 	.listing-info {padding: 25px 49px 60px 50px;}
@@ -218,7 +218,7 @@
 	.masonary .post-details > h3 {font-size: 18px;}
 	.pager-details.full.pd-lft-200 {padding-left: 10px;}
 	.construction-company h3 {font-size: 23px; line-height: 32px;margin-bottom: 25px;}
-	br {display: none;}
+	br {/* display: none; */}
 	.author-comm h2 {line-height: 32px;}
 	.author-comm::before {height: 72px;}
 	.author-comm {margin-bottom: 40px;}
@@ -316,6 +316,8 @@
 	.pd-left-none {padding-right: 0;}
 }
 @media (max-width: 767px) {
+	.banner-section h2 { top: 40%; left: 35%;}
+	.banner-section img { width: 140%; }
 	.header-bar.qut-style .logo {padding-top: 4px;}
 	.our-specifications {padding: 0 20px;}
 	.block.no-padding.pd-rs {padding-top: 80px;}
@@ -327,7 +329,7 @@
 	.demos-text h3 {font-size: 30px;}
 	.select-language {width: 35%;}
 	.construction-company h3 {font-size: 20px;line-height: 30px}
-	br {display: none;}
+	br {/* display: none; */}
 	.post-links li {line-height: 22px;}
 	.post {margin-bottom: 30px;}
 	.post-control-links a {font-size: 18px;}
@@ -343,7 +345,7 @@
 	.contact-form-sec h3 {font-size: 22px;}
 	#map {height: 250px;}
 	.address ul {padding-right: 0;}
-	.banner-section h2 {font-size: 16px;padding: 15px;left: 50%;top: 60%;}
+	.banner-section h2 {font-size: 22px;padding: 15px;left: 45%;top: 40%;}
 	.bfr::before {height: 130px;width: 3px;}
 	.location-details {padding: 0 30px;}
 	.house-info ul {padding: 50px 25px;}
@@ -397,7 +399,7 @@
 	.footer-logo {text-align: center;margin-bottom: 25px;}
 	.footer-logo img {float: none;}
 	.post-gal .post-details h3 {font-size: 16px;}
-	.kons-construct h2 {font-size: 34px;}
+	.kons-construct h2 {font-size: 40px;}
 	.srvcs {margin-bottom: -30px;}
 	.our-info h2 {font-size: 36px;margin-bottom: 20px;}
 	.our-info p {font-size: 17px;}
@@ -553,7 +555,7 @@
 	.layera2 {font-size: 34px;}
 	.partners-section.style2 {padding: 60px 0;}
 	.title-sm.style2 a {margin-top: 0;}
-	.kons-construct h2 {font-size: 28px;line-height: 35px;}
+	.kons-construct h2 {font-size: 36px;line-height: 80px;}
 	.our-projects-counter ul li {width: 100%;text-align: center;margin-bottom: 30px;}
 	.our-projects-counter ul li h2 {font-size: 40px;}
 	.cons-img {padding-right: 0;}
@@ -606,7 +608,7 @@
 	.slick-prev {left: 0;}
 	.slick-next {right: 0;}
 	.slick-prev::before, .slick-next::before {font-size: 18px;}
-	.banner-section h2 {font-size: 12px;top: 50%;}
+	.banner-section h2 {/* font-size: 12px; */top: 41%;}
 	.item-info h3 {font-size: 18px;}
 	.masonary.style2 .item-info h3 {font-size: 20px;line-height: 24px;}
 	.user-comment-form {padding: 0 15px;}
