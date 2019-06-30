@@ -619,6 +619,9 @@ header.full .logo {
 }
 
 /* ========= Banner Section ========= */
+.page {
+	margin-top: 80px;
+}
 
 .banner-section {
 
