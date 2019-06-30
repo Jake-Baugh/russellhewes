@@ -448,6 +448,7 @@
 	.demos-imgs {padding: 0;}
 }
 @media (max-width: 576px) {
+	.banner-section { background-image:url(../images/1-mobile.jpg); height: 400px;}
 	.tp-bullets {left: 107% !important;}
 	.tp-bullets {top: 30% !important;}
 	header.full.pb {padding: 20px 0;}
@@ -608,7 +609,7 @@
 	.slick-prev {left: 0;}
 	.slick-next {right: 0;}
 	.slick-prev::before, .slick-next::before {font-size: 18px;}
-	.banner-section h2 {/* font-size: 12px; */top: 41%;}
+	.banner-section h2 {/* font-size: 12px; */top: 51%;}
 	.item-info h3 {font-size: 18px;}
 	.masonary.style2 .item-info h3 {font-size: 20px;line-height: 24px;}
 	.user-comment-form {padding: 0 15px;}
