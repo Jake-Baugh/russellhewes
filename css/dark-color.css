@@ -246,7 +246,7 @@ p {
 	color: #ffffff;
 }
 .heading-title {
-	color: #ffffff;
+	/* color: #ffffff; */
 }
 .pager-details ul li a {
 	color: #fff;
@@ -276,10 +276,10 @@ p {
 	background-color: #032540;
 }
 .director-details h3 {
-	color: #ffffff;
+	/* color: #ffffff; */
 }
 .cntct-details {
-	background-color: #032540;        
+	background-color: #111;        
 }
 .contact-address h2 strong {
 	color: #fff;
@@ -431,5 +431,5 @@ p {
 	color: #fff;
 }
 .fp-tableCell {
-	background-color: #021f36;
+	background-color: #111;
 }

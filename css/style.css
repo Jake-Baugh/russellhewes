@@ -125,6 +125,13 @@ p {
 	position: relative;
 	z-index: 99;
 }
+.block-about {
+	float: left;
+	width: 100%;
+	padding: 100px 0;
+	position: relative;
+	z-index: 99;
+}
 main {
 	position: relative;
 	float: left;
@@ -362,7 +369,7 @@ nav ul {
 }
 nav > ul > li {
 	display: inline-block;
-	padding: 30px 17px 26px 17px;
+	padding: 30px 30px 26px 30px;
 	position: relative;
 }
 nav ul li:hover > ul {
@@ -620,7 +627,7 @@ header.full .logo {
 
 /* ========= Banner Section ========= */
 .page {
-	margin-top: 80px;
+	margin-top: 85px;
 }
 
 .banner-section {
@@ -630,10 +637,17 @@ header.full .logo {
 	position: relative;
 	background-image:url(../images/1.jpg);
 	background-size: cover;
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
-.banner-section img {
+
+.banner-section2 {
+
+	width:100%;
+	position: relative;
+}
+.banner-section2 img {
 	width: 100%;
+	margin-bottom: 60px;
 }
 .banner-section h2 {
 	position: absolute;
@@ -687,7 +701,7 @@ header.full .logo {
 .pager-details {
 	float: left;
 	width: 100%;
-	padding: 70px 0;
+	/* padding: 70px 0; */
 }
 .pager-details ul {
 	margin: 0;
@@ -720,7 +734,7 @@ header.full .logo {
 }
 .pager-details .heading-title {
 	text-transform: initial;
-	font-size: 65px;
+	font-size: 55px;
 	margin-bottom: 25px;
 }
 .pager-details .heading-title.size-less {
@@ -733,8 +747,8 @@ header.full .logo {
 	padding-left: 230px;
 }
 .pager-details.full {
-	padding: 120px 0;
-	margin-top: 130px;
+	/* padding: 120px 0; */
+	margin-top: 100px;
 }
 .single-post-data {
 	float: left;
@@ -1573,7 +1587,7 @@ footer:hover {
 .about-us p {
 	margin-bottom: 25px;
 	padding-right: 300px;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 26px;
 }
 .about-us p:last-child {
@@ -1584,12 +1598,12 @@ footer:hover {
 
 .construct-info {
 	float: left;
-	width: 100%;
+	width: 100%;margin-bottom: 80px;
 }
 .construct-details {
 	float: left;
 	width: 100%;
-	position: relative;
+	position: relative;background: #231e20;
 }
 .construct-info .col-lg-6 {
 	padding: 0;
@@ -1601,7 +1615,7 @@ footer:hover {
 	font-family: 'Libre Baskerville';
 	font-weight: 400;
 	padding-left: 20px;
-	padding-top: 130px;
+	padding-top: 130px;width: 80%;
 	position: relative;
 	left: 60px;
 	z-index: 99;
@@ -1647,6 +1661,20 @@ footer:hover {
 .our-services.style2 {
 	padding: 0 100px;
 }
+
+.services {
+	padding-right:100px;
+}
+.services ul{
+	padding: 30px;
+	margin-left: 30px;
+}
+.services ul li{
+	font-size: 18px;
+	line-height: 42px;
+	font-weight: 300;
+}
+
 .service-details {
 	float: left;
 	width: 100%;
@@ -1658,7 +1686,7 @@ footer:hover {
 	float: left;
 	width: 100%;
 	position: relative;
-	z-index: 999;
+	z-index: 999;top: 15%;
 }
 /*.service-details:before {
 	content: '';
@@ -1693,6 +1721,24 @@ footer:hover {
 	opacity: 1;
 	visibility: visible;
 }
+
+.quote-details {
+	float: left;
+	width: 100%;
+	padding: 30px 25px;
+	position: relative;
+	z-index: 999;
+	background: #231e20;
+	height:300px;line-height: 300px;
+}
+.quote-details h2 {
+	margin-bottom: 35px;
+}
+.quote-details h5 {
+	font-weight: 300;
+	margin-bottom: 25px;
+}
+
 .srvc-icon {
 	float: left;
 	width: 100%;
@@ -1758,6 +1804,9 @@ footer:hover {
 
 /* ======== director-info =========== */
 
+.team {
+	margin-bottom:100px
+}
 
 .contractor-details {
 	float: left;
@@ -1827,7 +1876,7 @@ footer:hover {
 .contact-info-sec {
 	float: left;
 	width: 100%;
-	padding: 170px 0;
+	padding: 80px 0;
 }
 .cntct-details {
 	float: left;
@@ -2954,7 +3003,7 @@ main.lght .ep-icon:after {
 .rating-star {
 	float: left;
 	width: 100%;
-	margin-bottom: 75px;
+	margin-bottom: 60px;
 	margin-top: 10px;
 }
 .rating-star h2 {
@@ -3066,7 +3115,7 @@ main.lght .ep-icon:after {
 .footer-style2 {
 	float: left;
 	width: 100%;
-	padding: 230px 0 190px 0;
+	padding: 165px 0 120px 0;
 	text-align: center;
 }
 .footer-text {
@@ -3213,7 +3262,7 @@ main.lght .ep-icon:after {
 	width: 100%;
 	padding: 30px 60px;
 	border-left: 3px solid #fff000;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 }
 .our-features:last-child {
 	margin-bottom: 0;
@@ -3222,6 +3271,7 @@ main.lght .ep-icon:after {
 	float: left;
 	width: 13%;
 	text-align: center;
+	margin-top: 2%;
 }
 .feature-icon i {
 	color: #999999;
@@ -3229,8 +3279,10 @@ main.lght .ep-icon:after {
 }
 .feature-info {
 	float: left;
-	width: 87%;
-	padding-left: 50px;
+	width: 85%;padding-left: 73px;
+}
+.feature-info ul {
+	padding-left: 5px;
 }
 .feature-info h3 {
 	font-size: 20px;
