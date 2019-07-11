@@ -2142,7 +2142,7 @@ main.lght .ep-icon:after {
 	float: left;
 	width: 100%;
 	padding: 0 200px;
-	padding-bottom: 150px;
+	padding-bottom: 50px;
 }
 .house-imgs-slides.no-pd {
 	padding: 0;
@@ -3146,7 +3146,10 @@ main.lght .ep-icon:after {
 	display: block;
 	margin-bottom: 17px;
 }
-
+.footer-text span:hover,
+.footer-text h2:hover {
+    color:#fff000;
+}
 /* ========== bottom-strip ============ */
 
 .bottom-strip {
