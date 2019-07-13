@@ -253,10 +253,10 @@ p {
 	/* color: #ffffff; */
 }
 .pager-details ul li a {
-	color: #fff;
+	color: #111;
 }
 .pager-details ul li:before {
-	color: #fff;
+	color: #777;
 }
 .options ul li a {
 	color: #777;
@@ -360,22 +360,22 @@ p {
 	color: #ffffff;
 }
 .construction-company h3 {
-	color: rgba(255,255,255,0.8);
+	/* color: rgba(255,255,255,0.8); */
 }
 .construction-company p {
-	color: #999999;
+	/* color: #333; */
 }
 .post-links li span {
-	color: #999999;
+	color: #777;
 }
 .mindfulness h3 {
-	color: #ffffff;
+	color: #333;
 }
 .author-comm h2 {
-	color: #fff;
+	/* color: #fff; */
 }
 .author-comm h4 {
-	color: #fff;
+	color: #333;
 }
 .author-comm span {
 	color: #999999;
@@ -423,7 +423,7 @@ p {
 	color: #fff;
 }
 .responsive-mobile-menu {
-	background-color: #03192b;
+	background-color: #111;
 }
 .responsive-mobile-menu > a {
 	color: #fff;

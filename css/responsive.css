@@ -217,7 +217,7 @@
 	.listing-info > a{bottom: 30px;}
 	.post-pagination nav {display: block;}
 	.masonary .post-details > h3 {font-size: 18px;}
-	.pager-details.full.pd-lft-200 {padding-left: 10px;}
+	.pager-details.full.pd-lft-200 {padding-left: 10px;padding-bottom: 50px;}
 	.construction-company h3 {font-size: 23px; line-height: 32px;margin-bottom: 25px;}
 	br {/* display: none; */}
 	.author-comm h2 {line-height: 32px;}
@@ -451,7 +451,7 @@
 @media (max-width: 576px) {
 	.feature-icon { margin: auto; float: none !important;}
 	.feature-info h3 { text-align: center; }
-	.banner-section { background-image:url(../images/1-mobile.jpg); height: 400px;}
+	.banner-section { background-image:url(../images/1-mobile.jpg); height: 360px;}
 	.tp-bullets {left: 107% !important;}
 	.tp-bullets {top: 30% !important;}
 	header.full.pb {padding: 20px 0;}

@@ -77,8 +77,8 @@ $(window).on("load", function() {
     $(".responsive-mobile-menu ul ul").parent().addClass("menu-has-items");
     $(".responsive-mobile-menu ul li.menu-has-items > a").on("click", function(){
       $(this).parent().toggleClass("active").siblings().removeClass("active");
-      $(this).next("ul").slideToggle();
-      $(this).parent().siblings().find("ul").slideUp();
+      $(this).next("ul").fadeIn();
+      $(this).parent().siblings().find("ul").fadeOut();
       return false;
     });
 
