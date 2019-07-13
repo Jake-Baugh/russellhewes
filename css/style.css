@@ -2718,7 +2718,7 @@ main.lght .ep-icon:after {
 	float: left;
 	width: 100%;
 	padding: 125px 0;
-	border-bottom: 1px solid #213444;
+	/* border-bottom: 1px solid #213444; */
 }
 .post-gallery-date {
 	float: left;
