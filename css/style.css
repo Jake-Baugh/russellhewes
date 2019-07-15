@@ -372,7 +372,7 @@ nav ul {
 }
 nav > ul > li {
 	display: inline-block;
-	padding: 30px 25px 26px 25px;
+	padding: 30px 23px 26px 23px;
 	position: relative;
 }
 nav ul li:hover > ul {
@@ -749,6 +749,9 @@ header.full .logo {
 .pager-details.full.pd-lft-200 {
 	padding-left: 230px;padding-bottom: 100px;
 }
+.pager-details.full.pd-rgt-200 {
+	padding-right: 200px;padding-bottom: 100px;
+}
 .pager-details.full {
 	/* padding: 120px 0; */
 	margin-top: 100px;
@@ -875,7 +878,7 @@ header.full .logo {
 	letter-spacing: 1px;
 }
 .mindfulness p {
-	margin-bottom: 70px;
+	margin-bottom: 50px;
 	float: left;
 	width: 100%;
 	font-size: 16px;
@@ -1072,7 +1075,7 @@ header.full .logo {
 	font-size: 19px;
 	text-transform: capitalize;
 	line-height: 28px;
-	margin-bottom: 20px;
+	margin-bottom: 20px;height: 40px;
 }
 .post:hover .post-details > h3 a {
 	color: #fff000;
@@ -2091,9 +2094,9 @@ main.lght .ep-icon:after {
 	font-size: 36px;
 }
 .location-details p {
-	font-weight: 300;
-	line-height: 24px;
-	font-size: 14px;
+	/* font-weight: 300; */
+	line-height: 26px;
+	font-size: 16px;
 	margin-bottom: 70px;
 	padding-right: 15px;
 }
@@ -2229,7 +2232,7 @@ main.lght .ep-icon:after {
 	z-index: 999;
 }
 .slick-dotted.slick-slider {
-	margin-bottom: 0;
+	margin-bottom: 80px;
 }
 
 .slick-slide {
@@ -2240,7 +2243,7 @@ main.lght .ep-icon:after {
 .house-room-info {
 	float: left;
 	width: 100%;
-	margin-bottom: 130px;
+	margin-bottom: 100px;
 }
 .house-room-info:last-child {
 	/* margin-bottom: 0; */
@@ -2272,8 +2275,8 @@ main.lght .ep-icon:after {
 	font-size: 30px;
 }
 .info-about-house p {
-	font-size: 14px;
-	line-height: 24px;
+	font-size: 16px;
+	line-height: 26px;
 	padding-right: 10px;
 }
 .right-bdr {
@@ -2717,7 +2720,7 @@ main.lght .ep-icon:after {
 .single-post-gallery {
 	float: left;
 	width: 100%;
-	padding: 125px 0;
+	/* padding: 125px 0; */
 	/* border-bottom: 1px solid #213444; */
 }
 .post-gallery-date {

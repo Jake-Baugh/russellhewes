@@ -218,6 +218,8 @@
 	.post-pagination nav {display: block;}
 	.masonary .post-details > h3 {font-size: 18px;}
 	.pager-details.full.pd-lft-200 {padding-left: 10px;padding-bottom: 50px;}
+    .pager-details.full.pd-rgt-200 {padding-right
+        : 10px;padding-bottom: 50px;}
 	.construction-company h3 {font-size: 23px; line-height: 32px;margin-bottom: 25px;}
 	br {/* display: none; */}
 	.author-comm h2 {line-height: 32px;}
