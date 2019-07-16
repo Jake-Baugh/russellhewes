@@ -871,6 +871,9 @@ header.full .logo {
 	float: left;
 	width: 100%;
 }
+.mindfulness a {
+	color:#333;
+}
 .mindfulness h3 {
 	font-weight: 600;
 	font-size: 24px;
@@ -2065,7 +2068,7 @@ footer:hover {
 	left: 0;
 	width: 100px;
 	height: 3px;
-	background-color:#fff000;
+	background-color: #777;
 }
 .ep-icon:after {
 	content: '';
