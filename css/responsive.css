@@ -1,5 +1,13 @@
 
+@media (min-width: 1400px){
+	.banner-section h2 {
+		line-height:120px;
+		font-size: 60px;
+		top: 50%;
+		left: 34%;
+	}
 
+}
 @media (max-width: 1800px) {
 	.container2 {padding: 0 250px 0 45px;}
 	.locations-list ul li {margin-bottom: 45px;}
@@ -226,7 +234,7 @@
 	.author-comm::before {height: 72px;}
 	.author-comm {margin-bottom: 40px;}
 	.post-details > h3 {line-height: 22px;}
-	.single-post-gallery {padding: 70px 0;}
+	.single-post-gallery {padding: 0px 0;}
 	.related-posts h2 {margin-bottom: 40px;}
 	.lyr3 br {display: block;}
 	.our-addrs-info {width: 100%;text-align: center;margin-bottom: 20px;}
