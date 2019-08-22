@@ -107,7 +107,7 @@ h6{font-size:16px}
 p {
 	font-size: 14px;
 	line-height: 26px;
-	margin-bottom: 0;
+	/* margin-bottom: 0; */
 }
 ::-webkit-scrollbar{
   width: 8px;
@@ -2055,7 +2055,7 @@ footer:hover {
 }
 .location-details {
 	float: left;
-	width: 100%;
+	width: 100%;margin: 50px 0px 0px 0px;
 	padding: 0 200px;
 }
 .bfr {
@@ -2111,7 +2111,7 @@ main.lght .ep-icon:after {
 	float: left;
 	width: 100%;
 	padding: 0 200px;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 .house-info ul {
 	float: left;
@@ -2246,7 +2246,7 @@ main.lght .ep-icon:after {
 .house-room-info {
 	float: left;
 	width: 100%;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 .house-room-info:last-child {
 	/* margin-bottom: 0; */
